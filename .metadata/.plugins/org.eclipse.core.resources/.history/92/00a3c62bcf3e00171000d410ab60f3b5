@@ -4,9 +4,8 @@ public class selectionsort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ì•ˆë…•");
-		System.out.println("PUSH ì—°ìŠµì¤‘");
-		System.out.println("í•œê¸€ê¹¨ì§ í•´ê²°");
+		System.out.println("¾È³ç");
+		System.out.println("PUSH ¿¬½ÀÁß");
 	}
 
 }
