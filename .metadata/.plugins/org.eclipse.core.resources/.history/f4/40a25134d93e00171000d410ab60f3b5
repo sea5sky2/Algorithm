@@ -25,7 +25,6 @@ public class bubblesort {
 		int max; // 최댓값
 		int temp; // swap을 위한 값
 
-		//바꿔가며 이동
 		for (int i = 0; i < arr.length - 1; i++) {
 			for (int j = 0; j < arr.length - i - 1; j++) {
 
