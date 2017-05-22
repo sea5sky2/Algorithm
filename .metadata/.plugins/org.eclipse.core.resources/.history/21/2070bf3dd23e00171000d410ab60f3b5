@@ -1,0 +1,14 @@
+package algorithm;
+
+public class selectionsort {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("안녕");
+		System.out.println("PUSH 연습중");
+		System.out.println("한글깨짐 해결");
+		System.out.println("한글깨짐 해결???");
+		System.out.println("한글깨짐 해결???테스트중");
+	}
+
+}
