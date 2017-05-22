@@ -7,7 +7,6 @@ public class selectionsort {
 		System.out.println("안녕");
 		System.out.println("PUSH 연습중");
 		System.out.println("한글깨짐 해결");
-		System.out.println("한글깨짐 해결???");
 	}
 
 }
